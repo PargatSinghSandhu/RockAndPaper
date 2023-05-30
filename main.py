@@ -1,8 +1,8 @@
 def get_choices():
-  player_choice = "rock"
+  player_choicee = "rock"
   computer_choicee = "paper"
 
-  return player_choice
+  return player_choicee
 
 
 result = get_choices()
